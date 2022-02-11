@@ -1,0 +1,48 @@
+StudentID,TeacherID,ClassID,GroupID,Age,Name,Sex,ParentsName,Address,PhoneNumber,RegistrationDate
+
+101,201,A,GROUP_A,12,Jimmy,M,Walter,12 west st,8545678,Tue Aug 18 00:00:00 PDT 2020
+
+
+
+102,202,B,GROUP_B,23,Sally,F,Mike,unit 56 WA,456789765,Tue Aug 18 00:00:00 PDT 2020
+
+
+
+103,206,F,GROUP_F,62,Lizzy,F,Tom,unit 65,45678987,Tue Aug 18 00:00:00 PDT 2020
+
+
+
+104,203,C,GROUP_C,32,Markie,M,Carlos,unit 98,56787654,Tue Aug 18 00:00:00 PDT 2020
+
+
+
+105,201,A,GROUP_A,12,Johnny,M,Bravo,unit 34,876545678,Tue Aug 18 00:00:00 PDT 2020
+
+
+
+106,205,E,GROUP_E,48,Bobby,M,Baby,unit 78,7865456789,Tue Aug 18 00:00:00 PDT 2020
+
+
+
+107,203,C,GROUP_C,26,Billy ,M,Jones,unit 56,76545678,Tue Aug 18 00:00:00 PDT 2020
+
+
+
+108,204,D,GROUP_D,40,Evie,F,Lara,unit 34 MA,76545678,Tue Aug 18 00:00:00 PDT 2020
+
+
+
+109,203,C,GROUP_C,29,Becky,F,Marie,unit 983,8765678,Tue Aug 18 00:00:00 PDT 2020
+
+
+
+110,202,B,GROUP_B,14,Jessie,M,Walt,unit 78,8765678,Tue Aug 18 00:00:00 PDT 2020
+
+
+
+111,201,A,GROUP_A,12,Jackie,M,Tiger,23 south st,56787098,Tue Aug 18 00:00:00 PDT 2020
+
+
+
+123,201,A,GROUP_A,12,Manasa,F,Neeth,Malden,8795430000,Thu Feb 10 00:00:00 EST 2022
+

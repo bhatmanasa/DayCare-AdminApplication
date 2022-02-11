@@ -1,0 +1,21 @@
+TeacherID,TeacherName,Age,Sex,JoiningDate,ClassID,AgeGroup,StudentSize
+201,Mary,26,F,18/08/2020,A,6-12 months,4
+202,James,30,M,18/08/2020,B,13-24 months,2
+203,Larry,28,M,18/08/2018,C,25-35 months,3
+204,Lucy,20,F,18/08/2020,D,36-47 months,1
+205,Karen,25,F,18/08/2017,E,48-59 months,1
+206,Marie,32,F,18/08/2020,F,60 months-above,1
+207,Monika,22,F,18/08/2019,A,6-12 months,0
+208,Harold,45,M,18/08/2020,A,6-12 months,0
+209,Lizzy,35,F,18/08/2016,B,13-24 months,0
+210,Lara,27,F,18/08/2020,B,13-24 months,0
+211,Julie,23,F,18/08/2020,C,25-35 months,0
+212,Victoria,29,F,18/08/2020,C,25-35 months,0
+213,Megan,20,F,18/08/2020,D,36-47 months,0
+214,Andrea,26,F,18/08/2020,D,36-47 months,0
+
+215,Leela,32,F,10/02/2022,E,48-59 months,0
+
+
+216,Mary,32,F,11/02/2022,F,60 months-above,0
+

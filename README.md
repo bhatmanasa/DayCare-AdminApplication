@@ -1,1 +1,2 @@
-# DayCare-AdminApplication
+# DayCare
+Sample Readme

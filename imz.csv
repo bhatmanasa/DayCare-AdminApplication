@@ -1,0 +1,36 @@
+StudentID,GroupID,PolioStatus,PolioDate,MaxPolioDoses,PolioDoesDone, RemainingPolioDoses,DtapStatus,DtapDate,MaxDtapDoses,DtapDosesDone,RemDtapDoses,HibStatus,HibDate,MaxHibDoses,HibDosesDone,RemHibDoses,HepaStatus,HepaDate,MaxHepaDoses,HepaDosesDone,RemHepaDoses,MmrStatus,MmrDate,MaxMmrDoses,MmrDosesDone,RemMmrDoses,VarStatus,VarDate,MaxVarDoses,VarDosesDone,RemVarDoses
+101,GROUP_A,true,Sun Feb 02 00:00:00 PST 2020,3,3,0,true,Sun Oct 06 00:00:00 PDT 2019,4,2,2,true,Wed Jan 01 00:00:00 PST 2020,3,2,1,true,Wed Jun 03 00:00:00 PDT 2020,4,2,2,true,Fri Dec 06 00:00:00 PST 2019,1,1,0,true,Thu Aug 22 00:00:00 PDT 2019,1,1,0
+
+
+102,GROUP_B,true,Thu Jul 02 00:00:00 PDT 2020,3,3,0,true,Sun Sep 05 00:00:00 PDT 2010,4,2,2,true,Wed Feb 05 00:00:00 PST 2020,3,2,1,true,Sun Oct 06 00:00:00 PDT 2019,4,2,2,true,Wed Jan 01 00:00:00 PST 2020,1,1,0,true,Sun Feb 02 00:00:00 PST 2020,1,1,0
+
+
+103,GROUP_F,true,Wed Oct 09 00:00:00 PDT 2019,4,3,1,true,Sat Nov 09 00:00:00 PST 2019,5,2,3,true,Mon Dec 09 00:00:00 PST 2019,3,2,1,false,null,0,2,0,true,Thu Jan 09 00:00:00 PST 2020,2,1,1,true,Sun Feb 09 00:00:00 PST 2020,2,1,0
+
+
+104,GROUP_C,true,Sun Feb 09 00:00:00 PST 2020,4,3,1,true,Fri Oct 04 00:00:00 PDT 2019,5,2,3,true,Sat Mar 07 00:00:00 PST 2020,3,2,1,false,null,0,2,0,true,Sat Nov 09 00:00:00 PST 2019,2,1,1,true,Mon Sep 23 00:00:00 PDT 2019,2,1,0
+
+
+105,GROUP_A,true,Fri Oct 04 00:00:00 PDT 2019,3,3,0,true,Mon Sep 09 00:00:00 PDT 2019,4,2,2,true,Mon Feb 03 00:00:00 PST 2020,3,2,1,true,Sun May 03 00:00:00 PDT 2020,4,2,2,true,Tue Mar 03 00:00:00 PST 2020,1,1,0,true,Mon Nov 11 00:00:00 PST 2019,1,1,0
+
+
+106,GROUP_E,true,Mon Sep 09 00:00:00 PDT 2019,4,3,1,true,Tue Oct 08 00:00:00 PDT 2019,5,2,3,true,Sun Feb 02 00:00:00 PST 2020,3,2,1,false,null,0,2,0,true,Fri Dec 20 00:00:00 PST 2019,2,1,1,true,Wed Jan 01 00:00:00 PST 2020,2,1,0
+
+
+107,GROUP_C,true,Sun Feb 02 00:00:00 PST 2020,4,3,1,true,Mon Sep 09 00:00:00 PDT 2019,5,2,3,true,Tue Oct 08 00:00:00 PDT 2019,3,2,1,false,null,0,2,0,true,Tue Jul 07 00:00:00 PDT 2020,2,1,1,true,Mon Nov 11 00:00:00 PST 2019,2,1,0
+
+
+108,GROUP_D,true,Sun Feb 02 00:00:00 PST 2020,4,2,1,true,Tue Mar 03 00:00:00 PST 2020,5,1,4,true,Mon Sep 09 00:00:00 PDT 2019,3,1,2,false,null,0,1,0,true,Wed Oct 09 00:00:00 PDT 2019,2,1,1,true,Sat Nov 09 00:00:00 PST 2019,2,1,0
+
+
+109,GROUP_C,true,Sun Feb 02 00:00:00 PST 2020,4,2,1,true,Mon Sep 09 00:00:00 PDT 2019,5,1,4,true,Wed Oct 09 00:00:00 PDT 2019,3,2,1,false,null,0,2,0,true,Sat Nov 09 00:00:00 PST 2019,2,1,1,true,Mon Dec 09 00:00:00 PST 2019,2,1,0
+
+
+110,GROUP_B,true,Mon Sep 09 00:00:00 PDT 2019,3,3,0,true,Wed Oct 09 00:00:00 PDT 2019,4,1,3,true,Mon Dec 09 00:00:00 PST 2019,3,2,1,true,Sat Nov 09 00:00:00 PST 2019,4,2,2,true,Sat May 09 00:00:00 PDT 2020,1,1,0,true,Tue Jun 09 00:00:00 PDT 2020,1,1,0
+
+
+111,GROUP_A,true,Mon Sep 09 00:00:00 PDT 2019,3,3,0,true,Wed Oct 09 00:00:00 PDT 2019,4,2,2,true,Mon Dec 09 00:00:00 PST 2019,3,2,1,true,Sat Nov 09 00:00:00 PST 2019,4,2,3,true,Thu Jan 09 00:00:00 PST 2020,1,1,0,true,Sun Feb 09 00:00:00 PST 2020,1,1,0
+
+
+123,GROUP_A,false,null,3,0,1,false,null,4,0,4,false,null,3,0,3,false,null,4,0,4,false,null,1,0,1,false,null,1,0,0
+

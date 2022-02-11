@@ -1,0 +1,7 @@
+AgeGroup,ClassID,MaximumSize,StudentRatio,MaximumGroupSize
+6-12 months,A,4,4,3
+13-24 months,B,5,5,3
+25-35 months,C,6,6,3
+36-47 months,D,8,8,3
+48-59 months,E,12,12,2
+60 months-above,F,15,15,2
